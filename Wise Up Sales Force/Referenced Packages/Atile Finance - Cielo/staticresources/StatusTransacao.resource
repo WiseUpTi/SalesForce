@@ -1,0 +1,11 @@
+Nome,Status
+"2","Autenticada"
+"9","Cancelada"
+"0","Criada"
+"1","Em Andamento"
+"5","Não Autorizada"
+"10","Em Autenticação"
+"12","Em Cancelamento"
+"3","Não Autenticada"
+"4","Autorizada"
+"6","Capturada"
